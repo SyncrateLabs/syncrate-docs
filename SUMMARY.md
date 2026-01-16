@@ -6,6 +6,7 @@
 
 * [How Syncrate Works](getting-started/how-syncrate-works.md)
 * [Architecture Overview](getting-started/quickstart.md)
+* [Roadmap](getting-started/roadmap.md)
 
 ## Protocol
 
