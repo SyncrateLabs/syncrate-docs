@@ -8,13 +8,13 @@ The SYNC token is designed to capture value from the velocity of RWA movement ac
 
 ## Core Token Fundamentals
 
-• Total Supply: 1,000,000,000 SYNC
+**• Total Supply:** 1,000,000,000 SYNC
 
-• Token Type: Erc-20 
+**• Token Type:** ERC-20 
 
-• Inflation: 0% - fixed supply
+**• Inflation:** 0% - fixed supply
 
-• Initial Circulating Supply: 20% 
+**• Initial Circulating Supply:** 20% 
 
 ***
 
