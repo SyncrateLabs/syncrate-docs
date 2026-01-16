@@ -27,24 +27,13 @@ The SYNC token is the native utility and governance asset of the Syncrate Protoc
 
 ### SYNC Utilities
 
-* **Transaction Fees:** Every cross-chain RWA settlement requires a small fee (0.1bps) paid in either the native chain the user is routing to or in SYNC. This hybrid model reduces transaction frictions.&#x20;
-
-Large institutional traders can boost their settlement speed and priority by staking or paying higher SYNC fees.
+* **Transaction Fees:** Every cross-chain RWA settlement requires a small fee (0.1bps. customizable per issuer) paid in either the native chain the user is routing to or in SYNC. This hybrid model reduces transaction frictions.
 
 * **Node Staking:** Operators who validate the state of the cross-chain bridges must stake SYNC. If a node provides false data about a fiat on-ramp status (via the BaaS partner), their stake is slashed.
 
-* **Insurance Fund:** A portion of SYNC transaction fees is diverted to a decentralized "Settlement Insurance Fund" to protect users in the event of unforeseen chain re-organizations.
+* **Community Incentives:** A portion of SYNC token is allocated to developers and ecosystems helping to build the Syncrate ecosystem.
 
 * **Fee Abstraction:** Syncrate allows institutions to pay a single fee in SYNC, while the protocol’s backend automatically handles the underlying gas payments on the destination chains using the Syncrate treasury.
 
 * **Governance:** SYNC holders vote on protocol parameters and the deployment of the Syncrate Treasury.
-
-***
-
-To ensure there is always enough liquidity for cross-chain "Payment vs. Delivery" (PvD), SYNC is distributed as a reward to:
-
-• Liquidity Providers (LPs) who lock stablecoins into Syncrate’s settlement pools.
-
-• BaaS Integration Partners who provide the fastest fiat-to-onchain gateways.
-
 
