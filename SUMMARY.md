@@ -16,9 +16,9 @@
 
 ## Developers
 
-* [Integration Guide](developers/integration-guide.md)
-* [Smart Contracts](developers/smart-contracts.md)
-* [Testnet](developers/testnet.md)
+* [Integration Guide](Developers/integration-guide.md)
+* [Smart Contracts](Developers/smart-contracts.md)
+* [Testnet](Developers/testnet.md)
 
 ## Token
 
