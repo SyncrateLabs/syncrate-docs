@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [How Syncrate Works](getting-started/how-syncrate-works.md)
-* [Architecture Overview](getting-started/quickstart.md)
+* [How Syncrate Works](getting-started/quickstart.md)
+* [Architecture Overview](getting-started/architecture-overview.md)
 * [Roadmap](getting-started/roadmap.md)
 
 ## Protocol
