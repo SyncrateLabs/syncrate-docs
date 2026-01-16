@@ -1,7 +1,8 @@
 ### Testnet Contract Addresses
 
-__**(All deployments are done via Foundry from Syncrate GitHub Codespace)**__
+*Testnet tokens does not represent any value and are for test purposes only*
 
+***
 
 🔵 **Ethereum Sepolia (Chain ID: 11155111)**
 
