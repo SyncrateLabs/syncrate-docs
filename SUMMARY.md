@@ -6,18 +6,22 @@
 
 * [Architecture Overview](getting-started/quickstart.md)
 
-## Basics
+## Protocol
 
 * [Developers](basics/editor.md)
 * [Roadmap](basics/markdown.md)
 * [The SYNC Token](basics/images-and-media/README.md)
   * [Tokenomics](basics/images-and-media/tokenomics.md)
 
-## Group 1
+## Developers
+
+## Token
+
+## Community
 
 * [Community Channels](group-1/community-channels.md)
 * [Brand Assets](group-1/brand-assets.md)
 
-***
+## Legal
 
 * [Terms of Service ](https://syncrate.org/terms-of-service)
