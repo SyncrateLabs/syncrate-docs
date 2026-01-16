@@ -8,14 +8,14 @@
 
 ## Protocol
 
-* [Developers](basics/editor.md)
-* [Roadmap](basics/markdown.md)
-* [The SYNC Token](basics/images-and-media/README.md)
-  * [Tokenomics](basics/images-and-media/tokenomics.md)
 
 ## Developers
 
 ## Token
+
+* [The SYNC Token](basics/images-and-media/README.md)
+  * [Tokenomics](basics/images-and-media/tokenomics.md)
+
 
 ## Community
 
