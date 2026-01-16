@@ -24,6 +24,7 @@
 
 * [The SYNC Token](basics/images-and-media/README.md)
   * [Tokenomics](basics/images-and-media/tokenomics.md)
+* [Governance](basics/images-and-media/governance.md)
 
 
 ## Community
