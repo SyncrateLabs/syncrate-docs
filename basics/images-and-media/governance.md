@@ -10,7 +10,7 @@ The Syncrate protocol is designed to transition into a decentralized, community-
 
 ## The SYNC DAO
 
-The SYNC DAO is the primary decision-making body. Token holders stake SYNC to receive veSYNC (Voting Escrow SYNK), which grants the right to propose and vote on protocol upgrades.
+The SYNC DAO is the primary decision-making body. Token holders stake SYNC to receive veSYNC (Voting Escrow SYNC), which grants the right to propose and vote on protocol upgrades.
 
 **Core Governance Pillars:**
 
