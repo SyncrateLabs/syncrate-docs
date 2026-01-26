@@ -23,13 +23,13 @@ The SYNC DAO is the primary decision-making body. Token holders stake SYNC to re
 
 Unlike pure DeFi, Syncrate governs assets tied to traditional legal systems.
 
-* **The Syncrate Foundation:** A legal wrapper (BVI Foundation) which acts as the protocol's legal representative to sign contracts with offchain custodians and regulated issuers. Governance decisions that impact the legal status of an asset must be ratified by the Foundation to ensure they do not violate local securities laws or MiCA regulations.
+* **The Syncrate Foundation:** A legal wrapper (ADGM Foundation) which acts as the protocol's legal representative to sign contracts with offchain custodians and regulated issuers. Governance decisions that impact the legal status of an asset must be ratified by the Foundation to ensure they do not violate local securities laws or MiCA regulations.
 
 ***
 
 ## The Syncrate Council
 
-To prevent governance attacks and ensure rapid response to regulatory changes, Syncrate employs a 'Guardian Council' - a multi-sig composed of core team members, legal experts, and institutional partners.
+To prevent governance attacks and ensure rapid response to regulatory changes, Syncrate employs a Guardian Council - a multi-sig composed of core team members, legal experts, and institutional partners.
 
 * **Veto Power:** The Council can veto proposals that pose a systemic regulatory risk or technical threat to the protocol.
 * **Emergency Pausing:** In the event of a smart contract exploit or a major regulatory black swan event, the Council can pause ochestration modules to protect user capital.
