@@ -30,10 +30,10 @@
 
 * [Community Channels](group-1/community-channels.md)
 * [Brand Assets](group-1/brand-assets.md)
+* [Whitepaper](community/whitepaper.md)
 
 ## Legal
 
-* [Whitepaper](legal/whitepaper.md)
 * [Terms of Service](https://syncrate.org/terms-of-service)
 * [KYC / AML Policy](https://syncrate.org/kyc-policy)
 * [Privacy / Policy](https://syncrate.org/privacy-policy)
