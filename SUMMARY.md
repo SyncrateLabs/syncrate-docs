@@ -26,7 +26,6 @@
   * [Tokenomics](basics/images-and-media/tokenomics.md)
 * [Governance](basics/images-and-media/governance.md)
 
-
 ## Community
 
 * [Community Channels](group-1/community-channels.md)
@@ -34,6 +33,7 @@
 
 ## Legal
 
-* [Terms of Service ](https://syncrate.org/terms-of-service)
-* [KYC / AML Policy ](https://syncrate.org/kyc-policy)
-* [Privacy / Policy ](https://syncrate.org/privacy-policy)
+* [Whitepaper](legal/whitepaper.md)
+* [Terms of Service](https://syncrate.org/terms-of-service)
+* [KYC / AML Policy](https://syncrate.org/kyc-policy)
+* [Privacy / Policy](https://syncrate.org/privacy-policy)
